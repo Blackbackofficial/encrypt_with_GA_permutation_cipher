@@ -1,2 +1,3 @@
-# encrypt_with_GA_permutation_cipher
-encryption and decryption using genetic algorithms for files of any type
+# Encrypt with GA permutation cipher
+
+Encryption and decryption using genetic algorithms for files of any type
